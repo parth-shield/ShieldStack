@@ -20,7 +20,6 @@ A simple command-line tool to generate cryptographic key pairs (RSA & ECC) for S
 
 Install dependencies using:
 
-```bash
 pip install cryptography
 
 ## Usage
